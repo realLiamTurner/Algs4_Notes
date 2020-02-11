@@ -1,4 +1,4 @@
-package com.tung.algs4;
+package com.basics.demo;
 
 import edu.princeton.cs.algs4.*;
 
